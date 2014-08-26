@@ -1,0 +1,11 @@
+a {
+	text-decoration : none;
+	font-size: 16px;
+	color: #000000;
+}
+a:hover {
+	color: blue;
+}
+h3 {
+	color: #008B8B;
+}
